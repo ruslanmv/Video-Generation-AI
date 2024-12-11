@@ -1,0 +1,7 @@
+accelerate
+torch
+gradio
+transformers
+git+https://github.com/huggingface/diffusers
+sentencepiece
+opencv-python
